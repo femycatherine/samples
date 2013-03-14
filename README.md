@@ -3,4 +3,4 @@ samples
 
 Dummy repo to house sample PDI transformations and jobs
 
-Use the Downloads link to get to the files
+See my blog (http://funpdi.blogspot.com) for usage and discussion of these samples.
